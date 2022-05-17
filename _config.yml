@@ -3,7 +3,7 @@
 
 # Uncomment and set the URL of your site (with protocol, e.g. `https://`)
 # NOTE: You don't need to provide this property when hosting on GitHub Pages or Netlify.
-url: https://fsm12.github.io
+url: https://fsm12gitblog.github.io
 
 # Uncomment and set the "base URL" of your site.
 # When your site is in a subdirectory, set to `/<name of directory>`,
@@ -27,7 +27,7 @@ description: >
   많은 프로젝트를 쌓아가겠습니다
 
 # A shorter description for the sidebar.
-tagline: 면접관이 좋아하는 gitblog
+tagline: 면접관이 좋아하는 gitblog~
 
 # A list of keywords for your blog
 keywords: [Python, Java, AI]
@@ -77,7 +77,7 @@ paginate_path: /:num/
 # Theme
 # ---------------------------------------------------------------------------------------
 
-theme: jekyll-theme-hydejack
+# theme: jekyll-theme-hydejack
 remote_theme: hydecorp/hydejack@v9
 
 # Customizaton
